@@ -10,13 +10,13 @@
 		},
 		{
 			"checksumSHA1": "iPtWcXdYFZAMGNjro3z3nX5qYD4=",
-			"path": "github.com/coreos/clair/database",
+			"path": "github.com/quay/clair/tree/release-2.0/database",
 			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
 			"revisionTime": "2018-07-17T23:57:26Z"
 		},
 		{
 			"checksumSHA1": "VMxfZpMDX8d4KZD96K9/RXRULtU=",
-			"path": "github.com/coreos/clair/ext/versionfmt",
+			"path": "github.com/quay/clair/tree/release-2.0/ext/versionfmt",
 			"revision": "b1cd09231990e44bc3376f95dcb94e2c3026a1ec",
 			"revisionTime": "2018-07-17T23:57:26Z"
 		},
